@@ -1,2 +1,2 @@
-# Etherium-Smart-Contracts
-Smart Contracts of Etherium from Udemy Course
+# Ethereum-Smart-Contracts
+Smart Contracts of Ethereum from Udemy Course
