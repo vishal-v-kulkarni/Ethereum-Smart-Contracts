@@ -1,19 +1,27 @@
 {
-  "name": "inbox",
+  "name": "etherium-smart-contracts",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal1508/Etherium-Smart-Contracts.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal1508/Etherium-Smart-Contracts/issues"
+  },
+  "homepage": "https://github.com/vishal1508/Etherium-Smart-Contracts#readme",
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.1.11",
-    "ganache": "^7.7.7",
     "ganache-cli": "^6.12.2",
     "mocha": "^10.2.0",
-    "solc": "^0.4.17",
-    "web3": "^1.9.0"
+    "solc": "^0.8.9",
+    "web3": "^1.10.0"
   }
 }
